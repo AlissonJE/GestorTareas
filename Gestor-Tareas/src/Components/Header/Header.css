@@ -1,5 +1,5 @@
 Header{ 
-    background-color:rgb(181, 228, 185);
+    background-color:rgb(55, 71, 56);
     width: 100%;
     display: flex;
     flex-direction: row;
@@ -9,19 +9,17 @@ Header{
 }
 
 h1{
-    color: rgb(57, 80, 50);
+    color: rgb(23, 34, 20);
     font-size: 23px;
 }
 
 .Logo{  
     font-size: 23px;
-    color: rgb(57, 80, 50);
+    color: rgb(23, 34, 20);
 }
 
 hr{
-    border: none;
-    background-color:  rgb(57, 80, 50);
+    border: solid rgb(13, 19, 10);    
     width: 100%;
-    height: 3px;
 }
 

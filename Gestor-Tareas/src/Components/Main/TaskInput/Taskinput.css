@@ -1,0 +1,58 @@
+.AT{
+    font-size: 50px;
+    padding-top: 40px;
+    color: rgb(113, 131, 103);
+
+}
+
+
+
+.BC{
+margin-top: 50px;   
+    padding: 70px;
+    width: 50%;
+
+    background-color: rgba(115, 167, 117, 0.548);
+    border-radius: 30px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+    box-shadow: 5px 5px 0px rgb(0, 0, 0);
+
+}
+
+.BT{
+    display: flex;
+    align-items: center;
+}
+
+.BT button{
+    box-sizing: border-box;
+    background-color: rgb(80, 80, 167);
+    padding: 10px;
+    width: auto ;
+    padding-left: 10px;
+    box-shadow: 5px 5px 0px rgb(55, 54, 68);
+
+}
+
+.In{
+    padding-left: 10%;
+    width: 75%;
+    
+}
+
+.In input{
+    box-sizing: border-box;
+    width: 60%; 
+    height: 60px;
+    font-size: 12px;
+    border: 2px solid #2a5532;
+    border-radius: 8px;
+    outline: none;
+    text-align: start;
+    padding: 12px 16px;
+}

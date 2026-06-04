@@ -7,8 +7,8 @@ ul{
 }
 
 li{
-    background-color: rgb(181, 228, 185);
-    color: rgb(57, 80, 50);
+    background-color:rgb(55, 71, 56);
+    color: rgb(16, 22, 14);
     margin: 20px;
     padding: 20px;
     width: 90%;
@@ -20,7 +20,7 @@ li{
     border-radius: 8px;
     font-weight: bold;
 
-    box-shadow: 5px 5px 0px rgb(57, 80, 50);
+    box-shadow: 5px 5px 0px rgb(16, 22, 14);
 
 }
 
@@ -41,6 +41,7 @@ button{
     display: flex;
     justify-content: center;    
     gap: 8px;
-    
+
+    box-shadow: 5px 5px 0px rgb(92, 12, 12);
 
 }

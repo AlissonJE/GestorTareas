@@ -4,10 +4,14 @@ import "./Taskinput.css"
 export const Taskinput = () => {
     return(
         <>
-            <h1>Agregar Tareas</h1>
-            <main id="In">
-                <input type='text' placeholder="Agrega una nueva tarea..."/> 
-                <button>Agregar +</button>
+            <h1 className="AT">Agregar Tareas</h1>
+            <main className="BC">
+                <main className="In">
+                    <input type='text' placeholder="Agrega una nueva tarea..."/> 
+                </main>
+                <div className="BT">
+                    <button>Agregar +</button>
+                </div>
             </main>
             
         </>
