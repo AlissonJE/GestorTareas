@@ -1,0 +1,28 @@
+Header{ 
+    background-color:rgb(181, 228, 185);
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    gap: 2%; 
+
+}
+
+h1{
+    font-family: 'Inter', sans-serif;
+    color: rgb(86, 117, 79);
+    font-size: 23px;
+}
+
+.Logo{  
+    font-size: 23px;
+    color: rgb(86, 117, 79);
+}
+
+hr{
+    border: none;
+    background-color:  rgb(111, 160, 100);
+    width: 100%;
+    height: 3px;
+}
+
