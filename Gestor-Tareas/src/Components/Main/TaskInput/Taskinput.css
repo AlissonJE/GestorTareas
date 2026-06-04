@@ -1,7 +1,7 @@
 .AT{
     font-size: 50px;
     padding-top: 40px;
-    color: rgb(113, 131, 103);
+    color: rgb(54, 63, 116);
 
 }
 
@@ -12,7 +12,7 @@ margin-top: 50px;
     padding: 70px;
     width: 50%;
 
-    background-color: rgba(115, 167, 117, 0.548);
+    background-color: rgba(163, 217, 226, 0.623);
     border-radius: 30px;
 
     display: flex;
@@ -20,7 +20,7 @@ margin-top: 50px;
     align-items: center;
     justify-content: space-around;
 
-    box-shadow: 5px 5px 0px rgb(0, 0, 0);
+    box-shadow: 5px 5px 0px rgb(84, 78, 136);
 
 }
 
@@ -50,7 +50,7 @@ margin-top: 50px;
     width: 60%; 
     height: 60px;
     font-size: 12px;
-    border: 2px solid #2a5532;
+    border: 2px solid rgb(84, 78, 136);
     border-radius: 8px;
     outline: none;
     text-align: start;
