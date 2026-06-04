@@ -9,19 +9,18 @@ Header{
 }
 
 h1{
-    font-family: 'Inter', sans-serif;
-    color: rgb(86, 117, 79);
+    color: rgb(57, 80, 50);
     font-size: 23px;
 }
 
 .Logo{  
     font-size: 23px;
-    color: rgb(86, 117, 79);
+    color: rgb(57, 80, 50);
 }
 
 hr{
     border: none;
-    background-color:  rgb(111, 160, 100);
+    background-color:  rgb(57, 80, 50);
     width: 100%;
     height: 3px;
 }
